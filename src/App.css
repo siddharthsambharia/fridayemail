@@ -28,7 +28,7 @@ a:active {
 
 
 h1{
-  font-family: "Gilroy-Bold";
+
 }
 
 .topbar {
@@ -41,7 +41,7 @@ padding-right: 4rem;
 padding-bottom: 1rem;
 font-weight: 500;
 font-size: large;
-font-family: "Gilroy-Bold";
+
 }
 
 
@@ -60,7 +60,7 @@ font-family: "Gilroy-Bold";
   display: inline-block;
   position: relative;
   color: #ffffff;
-  font-family: "Gilroy-Bold";
+
   font-weight: 400;
 }
 
@@ -105,7 +105,7 @@ font-family: "Gilroy-Bold";
   margin-top: 14rem;
   margin-left: 2rem;
   margin-right: 2rem;
-  font-family: "Gilroy-Bold";
+
 
 }
 
