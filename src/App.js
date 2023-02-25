@@ -45,7 +45,7 @@ function App() {
 
       <div className="heading">
         <h1>
-          <p className="hover-underline-animation">Get Started, It's Free!</p>
+          <p className="hover-underline-animation">You are almost there!!</p>
         </h1>
       </div>
       <div className="email">
@@ -75,11 +75,10 @@ function App() {
         </form>
       </div>
       <div className="privacy">
-        <h2>
-          We respect your privacy and do not collect any of your data without
-          your explicit consent. Your information is secure .
-        </h2>
+        We respect your privacy and do not collect data.{" "}
+        <a href="www.google.com">Read Our Policy</a>
       </div>
+
       <div className="hero"></div>
     </div>
   );

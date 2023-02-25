@@ -3,6 +3,27 @@
   background-color: #1b1b1b;
 }
 
+a:link {
+  color: rgb(58, 58, 219);
+  text-decoration: none;
+  
+}
+
+/* visited link */
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(76, 76, 108);
+}
+
+/* selected link */
+a:active {
+  color: rgb(76, 76, 108);
+}
 
 
 
@@ -26,28 +47,6 @@ font-family: "Gilroy-Bold";
 
 
 
-/* unvisited link */
-a:link {
-  color: white;
-  text-decoration: none;
-  
-}
-
-/* visited link */
-a:visited {
-  color: white;
-  text-decoration: none;
-}
-
-/* mouse over link */
-a:hover {
-  color: rgb(76, 76, 108);
-}
-
-/* selected link */
-a:active {
-  color: rgb(76, 76, 108);
-}
 
 
 .hero {
@@ -103,7 +102,7 @@ a:active {
   display: flex;
   justify-content: center;
   margin-bottom: 1rem;
-  margin-top: 16rem;
+  margin-top: 14rem;
   margin-left: 2rem;
   margin-right: 2rem;
   font-family: "Gilroy-Bold";
@@ -142,9 +141,6 @@ padding-right: 12rem;
 text-align: center;
 
 }
-
-
-
 
 
 .email{
@@ -292,6 +288,7 @@ font-weight: 600;
   padding-left: 0;
   padding-right: 0;
   text-align: center;
+  font-size: large;
 }
 
 
