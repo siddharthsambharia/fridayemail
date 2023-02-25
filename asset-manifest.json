@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/siddharthsambharia/fridayemail/static/css/main.f1753895.css",
+    "main.js": "/siddharthsambharia/fridayemail/static/js/main.1dae0c4a.js",
+    "static/js/787.4f0dde5a.chunk.js": "/siddharthsambharia/fridayemail/static/js/787.4f0dde5a.chunk.js",
+    "index.html": "/siddharthsambharia/fridayemail/index.html",
+    "main.f1753895.css.map": "/siddharthsambharia/fridayemail/static/css/main.f1753895.css.map",
+    "main.1dae0c4a.js.map": "/siddharthsambharia/fridayemail/static/js/main.1dae0c4a.js.map",
+    "787.4f0dde5a.chunk.js.map": "/siddharthsambharia/fridayemail/static/js/787.4f0dde5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1753895.css",
+    "static/js/main.1dae0c4a.js"
+  ]
+}
