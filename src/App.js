@@ -14,6 +14,7 @@ function App() {
     for (const key in data) {
       formData.append(key, data[key]);
     }
+
     axios
       .post("https://fridayhttp-production.up.railway.app/email", formData, {
         headers: {
